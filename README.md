@@ -1,2 +1,1 @@
-# Applied-Data-Science-Capstone-
-Week 1 Lab
+jupyter-labs-spacex-data-collection-api
